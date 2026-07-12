@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-245016/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Harshit-245016/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshit-245016/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -18,5 +19,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshit-245016/leetcode/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
