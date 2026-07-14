@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Harshit-245016/leetcode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Harshit-245016/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
