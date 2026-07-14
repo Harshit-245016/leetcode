@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-245016/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Harshit-245016/leetcode/tree/master/0283-move-zeroes) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-245016/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -25,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
