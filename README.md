@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshit-245016/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harshit-245016/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harshit-245016/leetcode/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harshit-245016/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
