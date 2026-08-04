@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-245016/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-245016/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit-245016/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/Harshit-245016/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshit-245016/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harshit-245016/leetcode/tree/master/0242-valid-anagram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit-245016/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/Harshit-245016/leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-245016/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-245016/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-245016/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Harshit-245016/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
