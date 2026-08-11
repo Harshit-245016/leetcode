@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-245016/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Harshit-245016/leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
