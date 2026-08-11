@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Harshit-245016/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-245016/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harshit-245016/leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Harshit-245016/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-245016/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-245016/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit-245016/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Harshit-245016/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-245016/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harshit-245016/leetcode/tree/master/0242-valid-anagram) |
+| [0904-fruit-into-baskets](https://github.com/Harshit-245016/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit-245016/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Harshit-245016/leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-245016/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Harshit-245016/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
