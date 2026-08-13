@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Harshit-245016/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harshit-245016/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-245016/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harshit-245016/leetcode/tree/master/0242-valid-anagram) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-245016/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Harshit-245016/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Harshit-245016/leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-245016/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Harshit-245016/leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-245016/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harshit-245016/leetcode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshit-245016/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Harshit-245016/leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Harshit-245016/leetcode/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/Harshit-245016/leetcode/tree/master/1251-average-selling-price) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Harshit-245016/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
