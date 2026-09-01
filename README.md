@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harshit-245016/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshit-245016/leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-245016/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-245016/leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Harshit-245016/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Harshit-245016/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-245016/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harshit-245016/leetcode/tree/master/0205-isomorphic-strings) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harshit-245016/leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-245016/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-245016/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-245016/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Harshit-245016/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
