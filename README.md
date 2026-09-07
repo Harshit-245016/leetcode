@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Harshit-245016/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshit-245016/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harshit-245016/leetcode/tree/master/0205-isomorphic-strings) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Harshit-245016/leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-245016/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-245016/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Harshit-245016/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-245016/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Harshit-245016/leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Harshit-245016/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Harshit-245016/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-245016/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harshit-245016/leetcode/tree/master/0205-isomorphic-strings) |
