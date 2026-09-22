@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-245016/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Harshit-245016/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Harshit-245016/leetcode/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Harshit-245016/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Harshit-245016/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harshit-245016/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshit-245016/leetcode/tree/master/0202-happy-number) |
