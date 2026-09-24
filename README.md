@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshit-245016/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Harshit-245016/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Harshit-245016/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harshit-245016/leetcode/tree/master/0066-plus-one) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshit-245016/leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Harshit-245016/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshit-245016/leetcode/tree/master/0202-happy-number) |
