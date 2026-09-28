@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Harshit-245016/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Harshit-245016/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harshit-245016/leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-245016/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Harshit-245016/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Harshit-245016/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-245016/leetcode/tree/master/0189-rotate-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-245016/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Harshit-245016/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Harshit-245016/leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshit-245016/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
